@@ -589,7 +589,7 @@ function App() {
                 © {new Date().getFullYear()} Chez Marine - Tous droits réservés
               </p>
               <p className="text-orange-300 text-xs mt-2">
-                Site créé par <a href="https://avalon-stratege.fr" target="_blank" rel="noopener noreferrer" className="underline hover:text-white">Avalon Stratège</a>
+                Site créé par <a href="https://www.avalon-stratege.com" target="_blank" rel="noopener noreferrer" className="underline hover:text-white">Avalon Stratège</a>
               </p>
             </div>
 
